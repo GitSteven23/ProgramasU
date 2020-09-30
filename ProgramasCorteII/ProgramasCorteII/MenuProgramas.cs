@@ -22,7 +22,7 @@ namespace ProgramasCorteII
                 Console.WriteLine("7. Copia de Seguridad");
                 Console.WriteLine("8. Caracteristicas de Una Serie de Numeros");
                 Console.WriteLine("9. Estadistica de Pesos");
-                Console.WriteLine("10. Funciones Matematicas");
+                Console.WriteLine(". Funciones Matematicas");
                 Console.WriteLine("Seleccione el numero del programa a ejecutar");
                 opcion = int.Parse(Console.ReadLine());
                 switch (opcion)
