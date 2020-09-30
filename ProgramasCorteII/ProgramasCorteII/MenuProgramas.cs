@@ -13,7 +13,7 @@ namespace ProgramasCorteII
                 Console.Clear();
                 Console.WriteLine("UNIVERSIDAD ECCI");
                 Console.WriteLine("MENU DE PROGRAMAS - VISUAL C SHARP");
-                Console.WriteLine("1. Nomina de Empleados");
+                Console.WriteLine("Nomina de Empleados");
                 Console.WriteLine("2. Sistema de Notas - Universidad Ecci");
                 Console.WriteLine("3. Operaciones Matematicas");
                 Console.WriteLine("4. Evaluacion y Analisis de Respuestas");
