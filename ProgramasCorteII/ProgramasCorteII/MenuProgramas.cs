@@ -30,7 +30,7 @@ namespace ProgramasCorteII
 
                 opcion = int.Parse(Console.ReadLine());
 
-                switch (opcion)
+               switch (opcion)
                 {
                     case 1:
                         OperacionesMatematicas operaciones = new OperacionesMatematicas();
@@ -38,13 +38,18 @@ namespace ProgramasCorteII
                         break;
 
                     case 2:
+                        FuncionesMatematicas funciones = new FuncionesMatematicas();
+                        funciones.FuncionesBasicas();
+
                         break;
 
                     case 3:
+                        RespuestaCorrectaInconrrecta respuesta = new RespuestaCorrectaInconrrecta();
+                        respuesta.RespuestaCorrectaInconrrecta1();
                         break;
 
                     case 4:
-                        break;
+                        break; 
 
                     case 5:
                         break;
