@@ -1,0 +1,7 @@
+C:\Users\steve\Documents\GitHub U\ProgramasU\ProgramasCorteII\ProgramasCorteII\bin\Debug\ProgramasCorteII.exe.config
+C:\Users\steve\Documents\GitHub U\ProgramasU\ProgramasCorteII\ProgramasCorteII\bin\Debug\ProgramasCorteII.exe
+C:\Users\steve\Documents\GitHub U\ProgramasU\ProgramasCorteII\ProgramasCorteII\bin\Debug\ProgramasCorteII.pdb
+C:\Users\steve\Documents\GitHub U\ProgramasU\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.csprojAssemblyReference.cache
+C:\Users\steve\Documents\GitHub U\ProgramasU\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\GitHub U\ProgramasU\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.exe
+C:\Users\steve\Documents\GitHub U\ProgramasU\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.pdb
