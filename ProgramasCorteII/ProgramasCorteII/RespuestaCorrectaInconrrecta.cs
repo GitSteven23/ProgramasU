@@ -10,8 +10,10 @@ namespace ProgramasCorteII
     {
 
         public void RespuestaCorrectaInconrrecta1()
-        {/*Variables*/
-            int correctas, incorrectas, blanco, postulantes, puntajec, puntajei,puntajeb;
+        {
+            /*Variables*/
+            int correctas, incorrectas, blanco, postulantes, 
+                puntajec, puntajei,puntajeb;
 
             Console.Clear();
             Console.WriteLine("==============================================");
@@ -21,13 +23,13 @@ namespace ProgramasCorteII
 
             Console.WriteLine("Digite la cantidad de postulantes");
             postulantes = int.Parse(Console.ReadLine());
-
-            int i;
-            for (i=0; i < postulantes; i++)
+            postulantes = postulantes + 1;
+                        
+            for (int i=1; i < postulantes; i++)
             {
-                Console.WriteLine("Digite la cantidad de respuestas correctas, para el postulante");
+                Console.WriteLine("Digite la cantidad de respuestas correctas, para el postulante # "+i);
                 correctas = int.Parse(Console.ReadLine());
-                Console.WriteLine("Digite la cantidad de respuestas correctas");
+                Console.WriteLine("Digite la cantidad de respuestas incorrectas");
                 incorrectas = int.Parse(Console.ReadLine());
                 Console.WriteLine("Digite la cantidad de respuestas en blanco");
                 blanco = int.Parse(Console.ReadLine());
@@ -42,9 +44,9 @@ namespace ProgramasCorteII
                 Console.WriteLine("la cantidad de respuestas en blanco es : "+blanco);
                 Console.WriteLine(" ");
 
-                Console.WriteLine("Puntaje respuetas correctas : " + puntajec);
-                Console.WriteLine("Puntaje respuetas incorrectas : " + puntajei);
-                Console.WriteLine("Puntaje respuetas en blanco : " + puntajeb);
+                Console.WriteLine("Puntaje respuestas correctas : " + puntajec);
+                Console.WriteLine("Puntaje respuestas incorrectas : " + puntajei);
+                Console.WriteLine("Puntaje respuestas en blanco : " + puntajeb);
                 Console.WriteLine(" ");
 
 
