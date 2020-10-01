@@ -42,6 +42,8 @@ namespace ProgramasCorteII
                         break;
 
                     case 3:
+                        RespuestaCorrectaInconrrecta respuesta = new RespuestaCorrectaInconrrecta();
+                        respuesta.RespuestaCorrectaInconrrecta1();
                         break;
 
                     case 4:
