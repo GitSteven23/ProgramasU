@@ -33,6 +33,8 @@ namespace ProgramasCorteII
                 switch (opcion)
                 {
                     case 1:
+                        OperacionesMatematicas operaciones = new OperacionesMatematicas();
+                        operaciones.OperacionesBasicas();
                         break;
 
                     case 2:

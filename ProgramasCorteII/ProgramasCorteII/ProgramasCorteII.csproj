@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="MenuProgramas.cs" />
     <Compile Include="NominaEmpleados.cs" />
+    <Compile Include="OperacionesMatematicas.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
