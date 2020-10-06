@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Algoritmo.cs" />
+    <Compile Include="Conmebolibertadores.cs" />
     <Compile Include="FuncionesMatematicas.cs" />
     <Compile Include="MenuProgramas.cs" />
     <Compile Include="NominaEmpleados.cs" />
