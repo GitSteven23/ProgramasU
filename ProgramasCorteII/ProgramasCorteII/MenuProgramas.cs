@@ -58,6 +58,9 @@ namespace ProgramasCorteII
                         break;
 
                     case 7:
+
+                        Algoritmo matematico = new Algoritmo();
+                        matematico.numerospositivos();
                         break;
 
                     case 8:
