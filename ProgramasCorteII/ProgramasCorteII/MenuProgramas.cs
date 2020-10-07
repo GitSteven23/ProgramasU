@@ -55,6 +55,8 @@ namespace ProgramasCorteII
                         break;
 
                     case 6:
+                        NumeroCD numero = new NumeroCD();
+                        numero.CDNecesarios();
                         break;
 
                     case 7:
