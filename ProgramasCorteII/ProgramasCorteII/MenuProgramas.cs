@@ -11,6 +11,7 @@ namespace ProgramasCorteII
             do
             {
                 Console.Clear();
+                Console.WriteLine("==============================================");
                 Console.WriteLine("UNIVERSIDAD ECCI - ARQUITECTURA DE SOFTWARE");
                 Console.WriteLine("PROGRAMAS CORTE II - C#");
                 Console.WriteLine("==============================================");
@@ -54,6 +55,9 @@ namespace ProgramasCorteII
                         break; 
 
                     case 5:
+                        ProduccionEmpleado ProduccionEmpleado = new ProduccionEmpleado();
+                        ProduccionEmpleado.ProduccionEmpleado1();
+
                         break;
 
                     case 6:
@@ -62,21 +66,26 @@ namespace ProgramasCorteII
                         break;
 
                     case 7:
-
                         Algoritmo matematico = new Algoritmo();
-                        matematico.numerospositivos();
+                        matematico.NumerosPositivos();
                         break;
 
                     case 8:
+                        MuestreoPersonas muestra = new MuestreoPersonas();
+                        muestra.MuestraPersonas();
                         break;
 
                     case 9:
+                        MatrizCalificaciones matriz = new MatrizCalificaciones();
+                        matriz.NotasEstudiantes();
                         break;
 
                     case 10:
+                        NominaEmpleados nomina = new NominaEmpleados();
+                        nomina.EmpleadoNomina();
                         break;
                 }
-                Console.WriteLine("Desea realizar otra operación: S/N");
+                Console.WriteLine("Desea volver al menu principal: S/N");
                 continuar = Console.ReadLine();
             }
             while (continuar == "s" || continuar == "S");

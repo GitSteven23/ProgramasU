@@ -8,20 +8,13 @@ namespace ProgramasCorteII
 {
    public  class Algoritmo
     {
-        public void numerospositivos()
-        {
-            
+        public void NumerosPositivos()
+        {            
             int num;
-
             
-            Console.WriteLine("Saber si el numero es Positivo, Negativo,");
-
-            
+            Console.WriteLine("Saber si el numero es Positivo, Negativo,");            
             Console.Write("Ingrese un Numero: ");
-
-
             num = Int32.Parse(Console.ReadLine());
-
             
             if (num == 0)
             {
@@ -33,12 +26,8 @@ namespace ProgramasCorteII
             }
             else if (num <= -1)
             {
-                Console.Write("'tSu numero '" + num + "' es Negativo.");
-            }
-
-          
+                Console.Write("'Su numero '" + num + "' es Negativo.");
+            }          
         }
-
-
     }
 }

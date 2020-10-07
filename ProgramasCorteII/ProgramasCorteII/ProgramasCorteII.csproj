@@ -44,9 +44,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Algoritmo.cs" />
+    <Compile Include="ProduccionEmpleado.cs" />
     <Compile Include="Conmebolibertadores.cs" />
     <Compile Include="FuncionesMatematicas.cs" />
+    <Compile Include="MatrizCalificaciones.cs" />
     <Compile Include="MenuProgramas.cs" />
+    <Compile Include="MuestreoPersonas.cs" />
     <Compile Include="NominaEmpleados.cs" />
     <Compile Include="NumeroCD.cs" />
     <Compile Include="OperacionesMatematicas.cs" />
