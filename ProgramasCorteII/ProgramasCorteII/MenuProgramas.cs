@@ -68,6 +68,8 @@ namespace ProgramasCorteII
                         break;
 
                     case 8:
+                        MuestreoPersonas muestra = new MuestreoPersonas();
+                        muestra.MuestraPersonas();
                         break;
 
                     case 9:
