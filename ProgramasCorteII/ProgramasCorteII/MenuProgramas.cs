@@ -49,6 +49,8 @@ namespace ProgramasCorteII
                         break;
 
                     case 4:
+                        Conmebolibertadores conmebolibertadores = new Conmebolibertadores();
+                        conmebolibertadores.Conmebolibertadores1();
                         break; 
 
                     case 5:
@@ -60,6 +62,9 @@ namespace ProgramasCorteII
                         break;
 
                     case 7:
+
+                        Algoritmo matematico = new Algoritmo();
+                        matematico.numerospositivos();
                         break;
 
                     case 8:
