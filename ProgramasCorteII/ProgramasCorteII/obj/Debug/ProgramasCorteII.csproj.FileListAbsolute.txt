@@ -5,3 +5,17 @@ C:\Users\steve\Documents\GitHub U\ProgramasU\ProgramasCorteII\ProgramasCorteII\o
 C:\Users\steve\Documents\GitHub U\ProgramasU\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.csproj.CoreCompileInputs.cache
 C:\Users\steve\Documents\GitHub U\ProgramasU\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.exe
 C:\Users\steve\Documents\GitHub U\ProgramasU\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.pdb
+C:\Users\Cristian Ovalle\Source\Repos\ProgramasU\ProgramasCorteII\ProgramasCorteII\bin\Debug\ProgramasCorteII.exe.config
+C:\Users\Cristian Ovalle\Source\Repos\ProgramasU\ProgramasCorteII\ProgramasCorteII\bin\Debug\ProgramasCorteII.exe
+C:\Users\Cristian Ovalle\Source\Repos\ProgramasU\ProgramasCorteII\ProgramasCorteII\bin\Debug\ProgramasCorteII.pdb
+C:\Users\Cristian Ovalle\Source\Repos\ProgramasU\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.csprojAssemblyReference.cache
+C:\Users\Cristian Ovalle\Source\Repos\ProgramasU\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Ovalle\Source\Repos\ProgramasU\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.exe
+C:\Users\Cristian Ovalle\Source\Repos\ProgramasU\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.pdb
+C:\Users\Jonathan Gomez\Documents\Universidad\SEPTIMO\ARQUITECTURA DE SOFTWARE\PROYECTO\ProgramasCorteII\ProgramasCorteII\bin\Debug\ProgramasCorteII.exe.config
+C:\Users\Jonathan Gomez\Documents\Universidad\SEPTIMO\ARQUITECTURA DE SOFTWARE\PROYECTO\ProgramasCorteII\ProgramasCorteII\bin\Debug\ProgramasCorteII.exe
+C:\Users\Jonathan Gomez\Documents\Universidad\SEPTIMO\ARQUITECTURA DE SOFTWARE\PROYECTO\ProgramasCorteII\ProgramasCorteII\bin\Debug\ProgramasCorteII.pdb
+C:\Users\Jonathan Gomez\Documents\Universidad\SEPTIMO\ARQUITECTURA DE SOFTWARE\PROYECTO\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.csprojAssemblyReference.cache
+C:\Users\Jonathan Gomez\Documents\Universidad\SEPTIMO\ARQUITECTURA DE SOFTWARE\PROYECTO\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Gomez\Documents\Universidad\SEPTIMO\ARQUITECTURA DE SOFTWARE\PROYECTO\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.exe
+C:\Users\Jonathan Gomez\Documents\Universidad\SEPTIMO\ARQUITECTURA DE SOFTWARE\PROYECTO\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.pdb

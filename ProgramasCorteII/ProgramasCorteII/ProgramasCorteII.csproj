@@ -43,10 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MatrizCalificaciones.cs" />
+    <Compile Include="Algoritmo.cs" />
+    <Compile Include="Conmebolibertadores.cs" />
+    <Compile Include="FuncionesMatematicas.cs" />
     <Compile Include="MenuProgramas.cs" />
     <Compile Include="NominaEmpleados.cs" />
+    <Compile Include="NumeroCD.cs" />
+    <Compile Include="OperacionesMatematicas.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RespuestaCorrectaInconrrecta.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

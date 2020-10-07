@@ -31,27 +31,41 @@ namespace ProgramasCorteII
 
                 opcion = int.Parse(Console.ReadLine());
 
-                switch (opcion)
+               switch (opcion)
                 {
                     case 1:
+                        OperacionesMatematicas operaciones = new OperacionesMatematicas();
+                        operaciones.OperacionesBasicas();
                         break;
 
                     case 2:
+                        FuncionesMatematicas funciones = new FuncionesMatematicas();
+                        funciones.FuncionesBasicas();
+
                         break;
 
                     case 3:
+                        RespuestaCorrectaInconrrecta respuesta = new RespuestaCorrectaInconrrecta();
+                        respuesta.RespuestaCorrectaInconrrecta1();
                         break;
 
                     case 4:
-                        break;
+                        Conmebolibertadores conmebolibertadores = new Conmebolibertadores();
+                        conmebolibertadores.Conmebolibertadores1();
+                        break; 
 
                     case 5:
                         break;
 
                     case 6:
+                        NumeroCD numero = new NumeroCD();
+                        numero.CDNecesarios();
                         break;
 
                     case 7:
+
+                        Algoritmo matematico = new Algoritmo();
+                        matematico.numerospositivos();
                         break;
 
                     case 8:
