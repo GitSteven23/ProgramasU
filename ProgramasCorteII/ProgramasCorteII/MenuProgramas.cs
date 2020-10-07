@@ -11,6 +11,7 @@ namespace ProgramasCorteII
             do
             {
                 Console.Clear();
+                Console.WriteLine("==============================================");
                 Console.WriteLine("UNIVERSIDAD ECCI - ARQUITECTURA DE SOFTWARE");
                 Console.WriteLine("PROGRAMAS CORTE II - C#");
                 Console.WriteLine("==============================================");
@@ -57,9 +58,13 @@ namespace ProgramasCorteII
                         break;
 
                     case 9:
+                        MatrizCalificaciones matriz = new MatrizCalificaciones();
+                        matriz.NotasEstudiantes();
                         break;
 
                     case 10:
+                        NominaEmpleados nomina = new NominaEmpleados();
+                        nomina.EmpleadoNomina();
                         break;
                 }
                 Console.WriteLine("Desea realizar otra operación: S/N");
