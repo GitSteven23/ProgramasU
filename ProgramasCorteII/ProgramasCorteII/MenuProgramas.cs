@@ -63,9 +63,8 @@ namespace ProgramasCorteII
                         break;
 
                     case 7:
-
                         Algoritmo matematico = new Algoritmo();
-                        matematico.numerospositivos();
+                        matematico.NumerosPositivos();
                         break;
 
                     case 8:
