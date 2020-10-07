@@ -19,3 +19,10 @@ C:\Users\Jonathan Gomez\Documents\Universidad\SEPTIMO\ARQUITECTURA DE SOFTWARE\P
 C:\Users\Jonathan Gomez\Documents\Universidad\SEPTIMO\ARQUITECTURA DE SOFTWARE\PROYECTO\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.csproj.CoreCompileInputs.cache
 C:\Users\Jonathan Gomez\Documents\Universidad\SEPTIMO\ARQUITECTURA DE SOFTWARE\PROYECTO\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.exe
 C:\Users\Jonathan Gomez\Documents\Universidad\SEPTIMO\ARQUITECTURA DE SOFTWARE\PROYECTO\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.pdb
+C:\Users\Layne Silva Acosta\Desktop\UNIVERSIDAD\7 SEMESTRE\ARQUITECTURA-SOFTWARE\Visual2019\ProgramasCorteII\ProgramasCorteII\bin\Debug\ProgramasCorteII.exe.config
+C:\Users\Layne Silva Acosta\Desktop\UNIVERSIDAD\7 SEMESTRE\ARQUITECTURA-SOFTWARE\Visual2019\ProgramasCorteII\ProgramasCorteII\bin\Debug\ProgramasCorteII.exe
+C:\Users\Layne Silva Acosta\Desktop\UNIVERSIDAD\7 SEMESTRE\ARQUITECTURA-SOFTWARE\Visual2019\ProgramasCorteII\ProgramasCorteII\bin\Debug\ProgramasCorteII.pdb
+C:\Users\Layne Silva Acosta\Desktop\UNIVERSIDAD\7 SEMESTRE\ARQUITECTURA-SOFTWARE\Visual2019\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.csprojAssemblyReference.cache
+C:\Users\Layne Silva Acosta\Desktop\UNIVERSIDAD\7 SEMESTRE\ARQUITECTURA-SOFTWARE\Visual2019\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.csproj.CoreCompileInputs.cache
+C:\Users\Layne Silva Acosta\Desktop\UNIVERSIDAD\7 SEMESTRE\ARQUITECTURA-SOFTWARE\Visual2019\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.exe
+C:\Users\Layne Silva Acosta\Desktop\UNIVERSIDAD\7 SEMESTRE\ARQUITECTURA-SOFTWARE\Visual2019\ProgramasCorteII\ProgramasCorteII\obj\Debug\ProgramasCorteII.pdb
