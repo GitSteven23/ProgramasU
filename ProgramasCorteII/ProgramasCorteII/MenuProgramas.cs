@@ -55,6 +55,9 @@ namespace ProgramasCorteII
                         break; 
 
                     case 5:
+                        ProduccionEmpleado ProduccionEmpleado = new ProduccionEmpleado();
+                        ProduccionEmpleado.ProduccionEmpleado1();
+
                         break;
 
                     case 6:
@@ -82,7 +85,7 @@ namespace ProgramasCorteII
                         nomina.EmpleadoNomina();
                         break;
                 }
-                Console.WriteLine("Desea realizar otra operación: S/N");
+                Console.WriteLine("Desea volver al menu principal: S/N");
                 continuar = Console.ReadLine();
             }
             while (continuar == "s" || continuar == "S");
