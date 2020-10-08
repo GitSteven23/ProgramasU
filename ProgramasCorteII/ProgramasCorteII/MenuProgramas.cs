@@ -57,7 +57,6 @@ namespace ProgramasCorteII
                     case 5:
                         ProduccionEmpleado ProduccionEmpleado = new ProduccionEmpleado();
                         ProduccionEmpleado.ProduccionEmpleado1();
-
                         break;
 
                     case 6:
